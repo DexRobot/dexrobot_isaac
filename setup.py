@@ -26,6 +26,11 @@ INSTALL_REQUIRES = [
     "pysdf==0.1.9",
     "warp-lang==0.10.1",
     "trimesh==3.23.5",
+    #add missing packages
+    "loguru",
+    "pandas",
+    "matplotlib",
+    "icecream",
 ]
 
 
